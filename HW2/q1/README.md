@@ -1,0 +1,1 @@
+//First the program will declare the "length", "width", and "perimeter" as floats that can be used within main. Next the program will define "length" with a user input via STDIO. Then the program defines "width" with a user input via STDIO. The program then defines "perimeter" as twice the sum of "length" and "width". The program then prints out "perimeter".
